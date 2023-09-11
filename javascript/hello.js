@@ -16,5 +16,5 @@
 function divthreenumber(a,b,c){
     return (a/b)/c;
 }
-let c= divthreenumber(30,5,2)
+let c= divthreenumber(60,5,2)
 console.log(c)
